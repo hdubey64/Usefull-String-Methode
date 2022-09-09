@@ -1,2 +1,2 @@
 const string = "This is my string";
-console.log(typeof string, string);
+console.log(string.length);
