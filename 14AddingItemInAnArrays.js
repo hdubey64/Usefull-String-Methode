@@ -12,7 +12,7 @@ console.log(cities);
 cities.push(["Azamgarh", "Kanpur"]);
 console.log(cities);
 // return:- [ 'Lucknow', 'Prayagraj', 'Varanashi', 'Azamgarh', [ 'Azamgarh', 'Kanpur' ]]
-
+console.log("vishal");
 cities.push("Maunathbhanjan", "Gorakhpur", "Mirzapur", "Jaunpur");
 console.log(cities);
 // return:- [ 'Lucknow', 'Prayagraj', 'Varanashi', 'Azamgarh' 'Maunathbhanjan', 'Gorakhpur', 'Mirzapur', 'Jaunpur']
